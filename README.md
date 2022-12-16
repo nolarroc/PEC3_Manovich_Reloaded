@@ -15,7 +15,7 @@ Fecha: Diciembre 2022
 ## Planteamiento
 
 
-A lo largo de este ensayo vamos a ir descubriendo dos modelos de hibridación bajo las gafas de Manovich, estos son Merge CUBE y Second Life.
+A lo largo de este ensayo vamos a ir descubriendo dos modelos de hibridación bajo las gafas de Manovich, estos son MERGE cube y Second Life.
 
 
 ## Re-descubriendo la hibridacion: MERGE cube
