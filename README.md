@@ -1,4 +1,4 @@
-# PEC3: Probando github 
+# PEC3: Hibridación
 
 ### Recurso de aprendizaje de Cultura Digital 
 
