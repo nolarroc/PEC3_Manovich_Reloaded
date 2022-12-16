@@ -36,6 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * González Lozano, Miguel Ángel. **MERGE cube: un cubo que nos acerca a la realidad**. Obervatorio de tecnología educativa nº 73
+* https://eduescaperoom.com/mergecube-y-como-crear-enigmas-de-realidad-aumentada-en-tu-escape-room-educativo/
 
 
 ----
