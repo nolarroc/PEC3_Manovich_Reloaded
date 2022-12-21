@@ -49,7 +49,8 @@ La vida en SL es muy parecida a la vida real, se pueden crear negocios, ir al ba
 * MERGE Cube. En Hipertextual. [consulta 12/12/2022]. Disponible en: https://mergeedu.com/cube?cr=5524
 * González Lozano, Miguel Ángel. **MERGE cube: un cubo que nos acerca a la realidad**. Obervatorio de tecnología educativa nº 73. [consulta: 4/12/2022]. Disponible en: https://intef.es/observatorio_tecno/merge-cube-un-cubo-que-nos-acerca-a-la-realidad/
 * Mergecube y cómo crear enigmas de Realidad Aumentada en tu Escape Room Educativo. [consulta: 13/12/2022]. Displinible en: https://eduescaperoom.com/mergecube-y-como-crear-enigmas-de-realidad-aumentada-en-tu-escape-room-educativo/
-* World Wide Web, Wikipedia: la enciclopedia libre. [consulta: 20/12/2022]. Disponible en: https://es.wikipedia.org/wiki/Second_Life
+* World Wide Web, Wikipedia: la enciclopedia libre. [consulta: 19/12/2022]. Disponible en: https://es.wikipedia.org/wiki/Second_Life
+* Dans, Enrique. El metaverso como reedición de Second Life. [consulta: 20/12/2022]. Disponible en: https://www.enriquedans.com/2022/05/el-metaverso-como-reedicion-de-second-life.html
 
 
 ----
