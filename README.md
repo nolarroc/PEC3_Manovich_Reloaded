@@ -12,7 +12,7 @@ Fecha: Diciembre 2022
 ## Planteamiento
 
 
-A lo largo de este ensayo vamos a descubir dos modelos de hibridación bajo las gafas de Manovich, estos son MERGE cube y Second Life, dos hibridos que han cambiado el mundo tal y como lo conevimos, en el caso de la enseñanza permite incluir la  la realidad aumentada como herramienta de trabajo y en el caso del metaverso, se nos muestra sus inicios.
+A lo largo de este ensayo vamos a descubir dos modelos de hibridación bajo las gafas de Manovich, estos son MERGE cube y Second Life, dos hibridos que han cambiado el mundo tal y como lo concevimos, en el caso de la enseñanza permite incluir la  la realidad aumentada como herramienta de trabajo y en el caso del metaverso, se nos muestra sus inicios.
 
 
 ## Re-descubriendo la hibridacion: MERGE cube
