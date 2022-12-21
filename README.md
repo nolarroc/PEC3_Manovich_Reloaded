@@ -32,11 +32,11 @@ Merge Cube permite sostener objetos digitales en 3D de tal forma que los alumnos
 
 ## Re-descubriendo la hibridacion: Second Life
 
-![Second Life](https://en.wikipedia.org/wiki/File:Second_Life_Logo.svg)
-
 Ahora que está tan de moda el metaverso, hay que indicar que este "invento" ya existía desde 2003 con la creación de Second Life (SL), una comunidad virtual lanzada en junio de 2003.
 
 Todos podemos formar parte de una comunidad, simplemente a través de Internet, nos creamos una cuenta gratuita y automaticamente se nos creará un avatar con el que podemos interactuar con el resto de residentes.
+
+![Second Life](https://www.enriquedans.com/wp-content/uploads/2022/05/Second-Life.jpeg)
 
 La moneda de SL es el dólar Linden (L$) y podremos personalizar nuestro avatar, comprando incluso ropa para vestirlos, hasta compar terrenos o asistir a eventos culturales como exposiciones, conciertos, etc.
 
