@@ -34,7 +34,7 @@ Merge Cube permite sostener objetos digitales en 3D de tal forma que los alumnos
 
 Ahora que está tan de moda el metaverso, hay que indicar que este "invento" ya existía desde 2003 con la creación de Second Life (SL), una comunidad virtual lanzada en junio de 2003.
 
-Todos podemos formar parte de una comunidad, simplemente a través de Internet, nos creamos una cuenta gratuita y automaticamente se nos creará un avatar con el que podemos interactuar con el resto de residentes.
+Todos podemos formar parte de esta comunidad, simplemente a través de Internet, nos creamos una cuenta gratuita y automaticamente se nos creará un avatar con el que podemos interactuar con el resto de residentes.
 
 ![Second Life](https://www.enriquedans.com/wp-content/uploads/2022/05/Second-Life.jpeg)
 
