@@ -34,7 +34,7 @@ Merge Cube permite sostener objetos digitales en 3D de tal forma que los alumnos
 
 ![Second Life](https://www.enriquedans.com/wp-content/uploads/2022/05/Second-Life.jpeg)
 
-Ahora que está tan de moda el metaverso, hay que indicar que este "invento" ya existía desde 2003 con la creación de Second Life (SL), una comunidad virtual lanzada en junio de 2003 por Linden Lab al que se puede acceder gratuitamente desde Internet.
+Ahora que está tan de moda el metaverso, hay que indicar que este "invento" ya existía desde los inicios del milenio con la creación de Second Life (SL), una comunidad virtual lanzada en junio de 2003 por Linden Lab al que se puede acceder gratuitamente desde Internet.
 
 Todos podemos formar parte de esta comunidad, simplemente a través de Internet, nos creamos una cuenta gratuita y automaticamente se nos creará un avatar con el que podemos interactuar con el resto de residentes.
 
