@@ -12,7 +12,7 @@ Fecha: Diciembre 2022
 ## Planteamiento
 
 
-A lo largo de este ensayo vamos a ir descubriendo dos modelos de hibridación bajo las gafas de Manovich, estos son MERGE cube y Second Life.
+A lo largo de este ensayo vamos a descubir dos modelos de hibridación bajo las gafas de Manovich, estos son MERGE cube y Second Life, dos hibridos que han cambiado el mundo tal y como lo conevimos, en el caso de la enseñanza permite incluir la  la realidad aumentada como herramienta de trabajo y en el caso del metaverso, se nos muestra sus inicios.
 
 
 ## Re-descubriendo la hibridacion: MERGE cube
@@ -34,15 +34,19 @@ Merge Cube permite sostener objetos digitales en 3D de tal forma que los alumnos
 
 ![Second Life](https://www.enriquedans.com/wp-content/uploads/2022/05/Second-Life.jpeg)
 
-Ahora que está tan de moda el metaverso, hay que indicar que este "invento" ya existía desde 2003 con la creación de Second Life (SL), una comunidad virtual lanzada en junio de 2003.
+Ahora que está tan de moda el metaverso, hay que indicar que este "invento" ya existía desde 2003 con la creación de Second Life (SL), una comunidad virtual lanzada en junio de 2003 por Linden Lab al que se puede acceder gratuitamente desde Internet.
 
 Todos podemos formar parte de esta comunidad, simplemente a través de Internet, nos creamos una cuenta gratuita y automaticamente se nos creará un avatar con el que podemos interactuar con el resto de residentes.
 
-La moneda de SL es el dólar Linden (L$) y podremos personalizar nuestro avatar, comprando incluso ropa para vestirlos, hasta compar terrenos o asistir a eventos culturales como exposiciones, conciertos, etc.
+Como en la vida real, en este mundo virtual existe la economía, donde a través de su moneda, el dólar Linden (L$), podremos personalizar nuestro avatar comprandole ropa para vestirlos, adquirir o alquilar terrenos.
 
-La vida en SL es muy parecida a la vida real, se pueden crear negocios, ir al banco, asistir a cualquier evento religios o estudiar en universidades tan prestigiosas como Harvar u Oxford, toda una revolución puesto que desde nuestro ordenador podemos estar inmersos en un mundo en el que no hay fronteras y todos los avatares tienen igualdad de derechos, impensable en el mundo actual.
+La vida social en SL es muy activa ya que podremos asistir desde eventos culturales. como exposiciones o conciertos, a ir a eventos religiosos.
 
-Se ha vendido el metaverso como el invento del siglo, pero este hibrido tiene un inconveniente como indica Enrique Dans en su blog:
+Y como en la sociedad en la que vivimos se pueden crear negocios o estudiar en universidades tan prestigiosas como Harvard u Oxford.
+
+Como aspecto positivo de esta comunidad se puede aventurar que este mundo virtual ha supuesto una una revolución ya no existen fronteras y todos los avatares tienen igualdad de derechos, impensable en el mundo real.
+
+Por el contrario, se ha vendido que el metaverso es el invento del siglo, pero este hibrido tiene un inconveniente como indica Enrique Dans en su blog:
 
 > En muchos sentidos, y aunque se busque revestirlo de una apariencia de modernidad y de proyección de futuro, este fenómeno lo hemos vivido ya hace unos cuantos años. Sin visores, pero con una parafernalia parecida, y con compañías haciendo el mismo tipo de apuestas por ser más modernas que las demás. ¿Interesante? Todo en tecnología lo es, aunque sea un _déjà vu_ como la copa de un pino y esté sometido a su consabido _[hype cycle](https://marketoonist.com/2022/02/metaverse-hype-cycle.html)_. Los que apuesten por un metaverso contratado con una sola compañía que les vende el espacio, el visor y todo lo demás, se equivocarán, porque [el metaverso solo puede funcionar si es abierto, interoperable y con múltiples participantes](https://venturebeat.com/2022/03/05/why-the-future-of-the-metaverse-can-only-be-decentralized/). Pero en cualquier caso, lo verás en cuanto te asomes a [Horizon Worlds](https://en.wikipedia.org/wiki/Horizon_Worlds), a [Mesh](https://en.wikipedia.org/wiki/Microsoft_Mesh), a [Decentraland](https://en.wikipedia.org/wiki/Decentraland) o a algún otro: esto ya lo vivimos a principios de siglo. Y además, teníamos piernas.
 
