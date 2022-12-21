@@ -17,17 +17,16 @@ A lo largo de este ensayo vamos a ir descubriendo dos modelos de hibridación ba
 
 ## Re-descubriendo la hibridacion: MERGE cube
 
+![Merge cube](https://eduescaperoom.com/wp-content/uploads/mergecube-escape-room-educativo-tutorial-realidad-aumentada.jpg)
+
 Es indiscutible que la Realidad Aumentada (RA) está cambiando la forma de ver el mundo, no hay que olvidar el caso de Pokemon Go, donde miles de personas se lanzaron a la calle con su móvil en mano para cazar Pokemons.
 
 En el ámbito de la educación, esta tecnología proporciona un gran abanico de opciones, donde se les puede enseñar a los alumnos una catedral haciendo que ellos estén dentro de la misma, haciendo así más inmersiva la enseñanza.
 
 Como ejemplo de uso de la RA nos encontramos con Merge Cube, un cubo  con el que podemos programar actividades y con la que los alumnos usando su móvil o tablet, pueden visualizar objetos en 3D.
 
-![Merge cube](https://eduescaperoom.com/wp-content/uploads/mergecube-escape-room-educativo-tutorial-realidad-aumentada.jpg)
-
 Merge Cube permite sostener objetos digitales en 3D de tal forma que los alumnos puedan explorar desde una galaxia a investigar el núcleo de la tierra.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_sL1HfdVxg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Re-descubriendo la hibridacion: Second Life
