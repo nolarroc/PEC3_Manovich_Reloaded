@@ -27,7 +27,7 @@ Como ejemplo de uso de la RA nos encontramos con Merge Cube, un cubo  con el que
 
 Merge Cube permite sostener objetos digitales en 3D de tal forma que los alumnos puedan explorar desde una galaxia a investigar el núcleo de la tierra.
 
-
+[![MERGE Cube](https://img.youtube.com/vi/_sL1HfdVxg4/0.jpg)](https://www.youtube.com/watch?v=_sL1HfdVxg4)
 
 ## Re-descubriendo la hibridacion: Second Life
 
